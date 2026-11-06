@@ -1,0 +1,5 @@
+name: AAWPkt
+version: '1'
+main: io.turbo.aAWPkt.AAWPkt
+api-version: '1.21'
+authors: [ TurboMaxe ]
